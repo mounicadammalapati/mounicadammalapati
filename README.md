@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mounicadammalapati
+- 👋 Hi, I’m @monica
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Azure Cloud technologies
 - 📫 How to reach me via linkedin mounicadammalapati
